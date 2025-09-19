@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UmaSahni/project_data.git"
+    "url": "git+https://github.com/juniorSarh/json-server.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UmaSahni/project_data/issues"
+    "url": "https://github.com/juniorSarh/json-server.git"
   },
   "homepage": "https://github.com/UmaSahni/project_data#readme",
   "dependencies": {
